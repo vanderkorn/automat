@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2008.03.06 22:02:11.843.cpp,C:\Documents and Settings\ivan\Мои документы\Borland Studio Projects\Unit1.cpp=C:\Documents and Settings\ivan\Мои документы\Borland Studio Projects\automat\life.cpp</Transaction>
+    <Transaction>2008.03.06 22:02:11.859.h,C:\Documents and Settings\ivan\Мои документы\Borland Studio Projects\Unit1.h=C:\Documents and Settings\ivan\Мои документы\Borland Studio Projects\automat\life.h</Transaction>
+    <Transaction>2008.03.06 22:02:11.859.dfm,C:\Documents and Settings\ivan\Мои документы\Borland Studio Projects\Unit1.dfm=C:\Documents and Settings\ivan\Мои документы\Borland Studio Projects\automat\life.dfm</Transaction>
+    <Transaction>2008.03.06 22:02:21.140.bdsproj,C:\Documents and Settings\ivan\Мои документы\Borland Studio Projects\Project2.bdsproj=C:\Documents and Settings\ivan\Мои документы\Borland Studio Projects\automat\lifeP.bdsproj</Transaction>
+  </Transactions>
+</BorlandProject>

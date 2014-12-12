@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2008.03.23 19:55:57.156.cpp,C:\Documents and Settings\ivan\Мои документы\Borland Studio Projects\Unit1.cpp=C:\Documents and Settings\ivan\Мои документы\Borland Studio Projects\kvatarnion\kvat.cpp</Transaction>
+    <Transaction>2008.03.23 19:55:57.156.h,C:\Documents and Settings\ivan\Мои документы\Borland Studio Projects\Unit1.h=C:\Documents and Settings\ivan\Мои документы\Borland Studio Projects\kvatarnion\kvat.h</Transaction>
+    <Transaction>2008.03.23 19:55:57.156.dfm,C:\Documents and Settings\ivan\Мои документы\Borland Studio Projects\Unit1.dfm=C:\Documents and Settings\ivan\Мои документы\Borland Studio Projects\kvatarnion\kvat.dfm</Transaction>
+    <Transaction>2008.03.23 19:56:04.656.bdsproj,C:\Documents and Settings\ivan\Мои документы\Borland Studio Projects\Project1.bdsproj=C:\Documents and Settings\ivan\Мои документы\Borland Studio Projects\kvatarnion\kvatP.bdsproj</Transaction>
+    <Transaction>2008.03.23 20:03:09.015.cpp,C:\Documents and Settings\ivan\Мои документы\Borland Studio Projects\kvatarnion\File1.cpp=C:\Documents and Settings\ivan\Мои документы\Borland Studio Projects\kvatarnion\kvatarnion.cpp</Transaction>
+  </Transactions>
+</BorlandProject>
